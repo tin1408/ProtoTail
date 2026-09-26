@@ -1,0 +1,10 @@
+# Python 3.10
+torch>=2.0
+torchvision
+numpy<2
+scipy
+scikit-learn
+pandas
+pillow
+loguru
+tqdm
